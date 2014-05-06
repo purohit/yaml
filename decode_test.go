@@ -2,7 +2,7 @@ package yaml_test
 
 import (
 	. "gopkg.in/check.v1"
-	"gopkg.in/yaml.v1"
+	"gopkg.in/purohit/yaml.v1"
 	"math"
 	"reflect"
 	"time"
