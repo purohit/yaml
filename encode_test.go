@@ -2,7 +2,7 @@ package yaml_test
 
 import (
 	"fmt"
-	"gopkg.in/yaml.v1"
+	"gopkg.in/purohit/yaml.v1"
 	. "gopkg.in/check.v1"
 	"math"
 	"strconv"
